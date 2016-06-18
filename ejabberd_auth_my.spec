@@ -1,0 +1,5 @@
+author: "Orest Kulik <orest at nisdom.com>"
+category: "auth"
+summary: "My Ejabberd authentication module using external HTTP services"
+home: "https://github.com/okulik/ejabberd_auth_my/tree/master/"
+url: "git@github.com:okulik/ejabberd_auth_my.git"
